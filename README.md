@@ -1,0 +1,1 @@
+This are some jasmine.js tests
